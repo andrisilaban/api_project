@@ -1,0 +1,266 @@
+{
+  status: "ok",
+  totalResults: 7526,
+  articles: [
+    {
+      source: {
+        id: null,
+        name: "The Punch"
+      },
+      author: "Temitayo Jaiyeola",
+      title: "Nigerians trade N14.76bn bitcoin in one month",
+      description: "Nigerians traded N14.76bn in bitcoin volume in July, according to data analysed from www.usefultulips.org. Useful Tulips aggregates trading volume from LocalBitcoins and Paxful trading platforms. True trading volume is higher as major trading platforms such a…",
+      url: "https://punchng.com/nigerians-trade-n14-76bn-bitcoin-in-one-month/",
+      urlToImage: "https://cdn.punchng.com/wp-content/uploads/2020/12/21163201/bitcoin.jpg",
+      publishedAt: "2021-08-02T23:30:53Z",
+      content: "Nigerians traded N14.76bn in bitcoin volume in July, according to data analysed from www.usefultulips.org. Useful Tulips aggregates trading volume from LocalBitcoins and Paxful trading platforms. Tr… [+1602 chars]"
+    },
+    {
+      source: {
+        id: null,
+        name: "Seerinteractive.com"
+      },
+      author: "Guest Blogger",
+      title: "Boost Your PPC Conversion Rate with Smart Landing Page Segmentation",
+      description: "About The Author hbspt.cta.load(7982212, '0b611674-ca1e-4cb2-8752-89ada46a97f7', {}); Co-Founder | SuperSonic Bringing the right visitor at the lowest possible cost is only half of the battle to achieve a good ROI with paid traffic. Your …",
+      url: "https://www.seerinteractive.com/blog/boost-your-ppc-conversion-rate-with-smart-landing-page-segmentation/",
+      urlToImage: "https://www.seerinteractive.com/wp-content/uploads/2021/08/Boost-Your-PPC-Conversion-Rate-with-Smart-Landing-Page-Segmentation-Social.png",
+      publishedAt: "2021-08-02T23:26:48Z",
+      content: "About The Author Co-Founder | SuperSonic Bringing the right visitor at the lowest possible cost is only half of the battle to achieve a good ROI with paid traffic. Your landing page must convert t… [+14409 chars]"
+    },
+    {
+      source: {
+        id: null,
+        name: "CleanTechnica"
+      },
+      author: "Johnna Crider",
+      title: "Tesla To Make Its 1st Texas-Built Test Model Y Next Week, 1 Month Ahead of Giga Berlin",
+      description: "Made-In-Texas Production Model Ys To Begin In 2 Months",
+      url: "https://cleantechnica.com/2021/08/02/tesla-to-make-its-1st-texas-built-test-model-y-next-week-1-month-ahead-of-giga-berlin/",
+      urlToImage: "https://cleantechnica.com/files/2021/07/Tesla-Model-Y-front-Zach-Shahan-CleanTechnica-Metro-watermark-logo.png",
+      publishedAt: "2021-08-02T23:13:13Z",
+      content: "Joe Tegtmeyer, a member of the Giga Texas drone pilot group Quad Squad, shared some interesting news in his latest daily update on Giga Texas’ progress. Tegtmeyer said that he just spoke to a trusted… [+4596 chars]"
+    },
+    {
+      source: {
+        id: null,
+        name: "Yahoo Entertainment"
+      },
+      author: "Gabrielle Olya",
+      title: "These 15 Billionaires Got Richer During the Pandemic",
+      description: "The coronavirus pandemic has disrupted the financial well-being of millions of people around the world, with many losing jobs, shuttering their businesses or...",
+      url: "https://finance.yahoo.com/news/15-billionaires-got-richer-during-230014092.html",
+      urlToImage: "https://s.yimg.com/uu/api/res/1.2/1jUYw2hcTtTkbyLmrAocTg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/gobankingrates_644/1eb12b434fab2736317eda91924ae0e4",
+      publishedAt: "2021-08-02T23:00:14Z",
+      content: "The coronavirus pandemic has disrupted the financial well-being of millions of people around the world, with many losing jobs, shuttering their businesses or losing a large portion of their retiremen… [+8341 chars]"
+    },
+    {
+      source: {
+        id: "fox-news",
+        name: "Fox News"
+      },
+      author: "Jessica Napoli",
+      title: "Felicity Huffman grabs takeout food with husband William H. Macy as she tries to make TV comeback",
+      description: "Huffman was released from prison after serving just 11 days for her role in the college admissions scandal.",
+      url: "https://www.foxnews.com/entertainment/felicity-huffman-takeout-food-william-h-macy",
+      urlToImage: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/huffman-backgrid.jpg",
+      publishedAt: "2021-08-02T22:53:50Z",
+      content: "Felicity Huffman was snapped grabbing takeout food with her husband, fellow actor William H. Macy. The couple exited their black Tesla donning casual outfits. Huffman, 58, wore a white tee-shirt, bl… [+2115 chars]"
+    },
+    {
+      source: {
+        id: null,
+        name: "Investopedia"
+      },
+      author: "Rakesh Sharma",
+      title: "Tesla (TSLA) Stock Gains on Report About China EV Sales",
+      description: "Electric carmaker Tesla's stock rose by 4% in trading today after a news report detailed an increase in sales in China's electric vehicle market.",
+      url: "https://www.investopedia.com/tesla-tsla-stock-gains-on-report-about-china-ev-sales-5195523",
+      urlToImage: "https://www.investopedia.com/thmb/rbtioAb2gv1Fee81d9TWg9ghmMg=/1024x703/filters:fill(auto,1)/GettyImages-136667073-b29793c621354a3eb510ee078b0e1997.jpg",
+      publishedAt: "2021-08-02T21:53:51Z",
+      content: "Electric carmaker Tesla, Inc.'s (TSLA) stock price went into a funk after it reported earnings last week. At the start of this week, however, it is accelerating. Toward the close of trading, the Palo… [+3692 chars]"
+    },
+    {
+      source: {
+        id: null,
+        name: "Cointelegraph"
+      },
+      author: "Cointelegraph By Marcel Pechman",
+      title: "China's attempt to kill Bitcoin failed — Here are 3 reasons why",
+      description: "Bitcoin’s hashrate recovery, steady peer-to-peer markets and the steady volume exhibited by Asia-based exchanges suggest that China’s attempt to ban BTC was ineffective.",
+      url: "https://cointelegraph.com/news/china-s-attempt-to-kill-bitcoin-failed-here-are-3-reasons-why",
+      urlToImage: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDcvNzNkZTM5MDctNTBlMi00MDkzLWEzZjAtZTFlMWE2ZDExZDc2LmpwZw==.jpg",
+      publishedAt: "2021-08-02T21:32:18Z",
+      content: "Bitcoin (BTC) might have suffered its largest coordinated attack over the last couple of months, but in this instance, the investor community did not capitulate. China outright banning mining in most… [+4240 chars]"
+    },
+    {
+      source: {
+        id: null,
+        name: "The Denver Post"
+      },
+      author: "Aldo Svaldi",
+      title: "Colorado auto registrations rebound in first half of 2021 from pandemic lows",
+      description: "Buyers registered 123,723 new cars and trucks in Colorado in the first six months of 2021, which is 20.6% more than the number they registered in the first half of 2020.",
+      url: "https://www.denverpost.com/2021/08/02/colorado-auto-registrations-rise-pandemic/",
+      urlToImage: "https://www.denverpost.com/wp-content/uploads/2020/12/AP20353815412663.jpg?w=1024&h=651",
+      publishedAt: "2021-08-02T21:29:31Z",
+      content: "Colorado automobile registrations rebounded strongly in the first half of 2021 from pandemic-depressed levels, and the gains would have been stronger if dealers had enough new vehicles to sell, accor… [+2110 chars]"
+    },
+    {
+      source: {
+        id: null,
+        name: "Forbes"
+      },
+      author: "Aaron Smith, Contributor, Aaron Smith, Contributor https://www.forbes.com/sites/aaronsmith/",
+      title: "FBI Background Checks Slowed Down In July As Gun Buyers Hunted For Ammunition",
+      description: "Background checks slumped in July, according to the Federal Bureau of Investigation, suggesting that Americans are softening on gun purchasing during the traditionally slow summer months after an extend period of record demand.",
+      url: "https://www.forbes.com/sites/aaronsmith/2021/08/02/fbi-background-checks-slowed-down-in-july-as-gun-buyers-hunted-for-ammunition/",
+      urlToImage: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61085d92aaed3a8363194ad4%2F0x0.jpg",
+      publishedAt: "2021-08-02T21:18:30Z",
+      content: "Employee Gorety Mejia takes down a HK MP5 for a customer at Full Armor Firearms store in Houston, ... [+] Texas on June 17, 2021. - Governor Greg Abbott signed into law Wednesday a bill that allows T… [+6812 chars]"
+    },
+    {
+      source: {
+        id: null,
+        name: "Seeking Alpha"
+      },
+      author: "Brian Stewart",
+      title: "Hot Stocks: TSLA leads EV sector; ATCX gets boost on infrastructure bill; ON sets new high; LVS touches new low",
+      description: "Tesla (TSLA) set the tone for EV stocks on Monday. ATCX jumped on proposed infrastructure spending. ON set a new high on earnings. TGTX dropped on its results. LVS set a new low.",
+      url: "https://seekingalpha.com/news/3723527-hot-stocks-tsla-leads-ev-sector-atcx-gets-boost-on-infrastructure-bill-on-sets-new-high-lvs-touches-new-low",
+      urlToImage: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/509120228/large_image_509120228.jpg",
+      publishedAt: "2021-08-02T21:16:14Z",
+      content: "MBPROJEKT_Maciej_Bledowski/iStock via Getty Images <ul> <li>Tesla (NASDAQ:TSLA) sat at the intersection of a couple of niche sectors that saw gains during Monday's session. The stock got a boost f… [+5086 chars]"
+    },
+    {
+      source: {
+        id: "time",
+        name: "Time"
+      },
+      author: "Peter Allen Clark",
+      title: "Big Tech Announces Striking Pandemic Gains as Small Businesses Strain to Find Their Footing",
+      description: "While the country's struggle with COVID-19 goes on, many of America’s largest tech companies announced enormous quarterly earnings this week.",
+      url: "https://time.com/6085674/big-tech-apple-microsoft-facebook-amazon-google-earnings/",
+      urlToImage: "https://api.time.com/wp-content/uploads/2021/07/GettyImages-1142112446.jpg?quality=85&w=1024&h=628&crop=1",
+      publishedAt: "2021-08-02T21:09:35Z",
+      content: "While the country’s struggle with COVID-19 goes on, many of America’s largest tech companies announced enormous quarterly earnings this week. The tech sector’s continued mid-pandemic financial windfa… [+5156 chars]"
+    },
+    {
+      source: {
+        id: null,
+        name: "SupChina"
+      },
+      author: "Chang Che",
+      title: "China’s ‘Big Tech crackdown’: A guide - SupChina",
+      description: "The Chinese government is tightening its control over Chinese technology companies in dramatic ways: There will be a sea change in 2021: Capital flows between the U.S. and China will in some cases reverse, and the incentives that have driven the Chinese econo…",
+      url: "https://supchina.com/2021/08/02/chinas-big-tech-crackdown-a-guide/",
+      urlToImage: "https://supchina.com/wp-content/uploads/2021/08/china-big-tech-crackdown.jpg",
+      publishedAt: "2021-08-02T20:57:39Z",
+      content: "<ul><li>Whats happening? </li><li>Why is this happening? </li><li>Whats next? </li><li>Should I tweak my investment portfolio? </li></ul>So whats happening? China is in the midst of what some ca… [+14559 chars]"
+    },
+    {
+      source: {
+        id: null,
+        name: "Kiplinger's Personal Finance"
+      },
+      author: "Kyle Woodley",
+      title: "Stock Market Today: Dow Stumbles After Sprinting Out of the Blocks",
+      description: "Weak economic data sent the Dow and S&P 500 to small losses on Monday, though the Nasdaq managed a marginal gain.",
+      url: "https://www.kiplinger.com/investing/stocks/603233/stock-market-today-080221-dow-stumbles-sprinting-out-of-blocks",
+      urlToImage: "https://mediacloud.kiplinger.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1627934671/Investing/stock-market-today-080221.jpg",
+      publishedAt: "2021-08-02T20:47:00Z",
+      content: "Stocks were on pace for a broadly positive session Monday, but they ended up turning in a mixed performance by the close as investors chewed on a number of headlines. Over the weekend, the Senate un… [+4365 chars]"
+    },
+    {
+      source: {
+        id: null,
+        name: "Daily Mail"
+      },
+      author: "Stacy Liberatore",
+      title: "Tesla autopilot brings Model S to a stop by itself after drunk driver fell asleep at the wheel",
+      description: "The Autopilot in a Model S stopped the vehicle once it detected the driver, who was intoxicated, was no longer responsive. The car stopped inside a tunnel and the system activated the hazard lights.",
+      url: "https://www.dailymail.co.uk/sciencetech/article-9853489/Tesla-autopilot-brings-Model-S-stop-drunk-driver-fell-asleep-wheel.html",
+      urlToImage: "https://i.dailymail.co.uk/1s/2021/08/02/21/46201849-0-image-a-63_1627934918555.jpg",
+      publishedAt: "2021-08-02T20:46:36Z",
+      content: "Teslas Autopilot may have prevented a deadly crash when the technology brought a Model S to stop after detecting the driver, who was intoxicated, was no longer responsive. The incident occurred on a… [+5125 chars]"
+    },
+    {
+      source: {
+        id: null,
+        name: "CleanTechnica"
+      },
+      author: "Zachary Shahan",
+      title: "European EV Policy & Sales Trends — Greece, Netherlands, Italy, Spain, Austria, Belgium, Germany, Norway, Denmark, Iceland, & UK",
+      description: "In the latest episode of Cleantech Talk, José Pontes of EAFO and EV Volumes provided us with a thorough exploration of varying electric vehicle sales trends and the policies that have driven them in several European countries. While you can indeed listen to t…",
+      url: "https://cleantechnica.com/2021/08/02/european-ev-policy-sales-trends-greece-netherlands-italy-spain-austria-belgium-germany-norway-denmark-iceland-uk/",
+      urlToImage: "https://cleantechnica.com/files/2021/08/Norway-Plugin-Electric-Vehicle-Share-Year-by-Year-.png",
+      publishedAt: "2021-08-02T20:30:05Z",
+      content: "In the latest episode of Cleantech Talk, José Pontes of EAFO and EV Volumes provided us with a thorough exploration of varying electric vehicle sales trends and the policies that have driven them in … [+7713 chars]"
+    },
+    {
+      source: {
+        id: null,
+        name: "Jalopnik"
+      },
+      author: "José Rodríguez Jr.",
+      title: "Revel Is Rolling Out An EV Ride-Sharing Program That Has Honest-To-Goodness Employees",
+      description: "Revel is rolling out the latest expansion to its ride-sharing program in New York City. The company just got regulatory approval for an employee-operated fleet of 50 EVs in Manhattan, set to carry passengers below 42nd street for now.Read more...",
+      url: "https://jalopnik.com/revel-is-rolling-out-an-ev-ride-sharing-program-that-ha-1847409623",
+      urlToImage: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dc2f40c8ca31f9b715f07201510d4fe3.jpg",
+      publishedAt: "2021-08-02T20:26:00Z",
+      content: "Revel is rolling out the latest expansion to its ride-sharing program in New York City. The company just got regulatory approval for an employee-operated fleet of 50 EVs in Manhattan, set to carry pa… [+1875 chars]"
+    },
+    {
+      source: {
+        id: null,
+        name: "Yahoo Entertainment"
+      },
+      author: "Usman Kabir",
+      title: "15 Most Volatile Stocks To Buy Now",
+      description: "In this article, we discuss the 15 most volatile stocks to buy now. If you want to skip our detailed analysis of these stocks, go directly to the 5 Most...",
+      url: "https://finance.yahoo.com/news/15-most-volatile-stocks-buy-202356756.html",
+      urlToImage: "https://s.yimg.com/uu/api/res/1.2/ru.9ziyXL4vQm3k3Drkzxg--~B/aD00OTg7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/eee11a4e5aa8b2ab8f4802d79b6865ad",
+      publishedAt: "2021-08-02T20:23:56Z",
+      content: "In this article, we discuss the 15 most volatile stocks to buy now. If you want to skip our detailed analysis of these stocks, go directly to the 5 Most Volatile Stocks To Buy Now. While volatility … [+15981 chars]"
+    },
+    {
+      source: {
+        id: null,
+        name: "Daily Mail"
+      },
+      author: "Ariel Zilber",
+      title: "Elon Musk refused to apologize for calling diver 'pedo' because 'it would make him look cowardly'",
+      description: "Elon Musk (left) refused to publicly apologize for the 'pedo guy' comment he tweeted at Vernon Unsworth because he was worried doing so would make him look cowardly, a new book claims.",
+      url: "https://www.dailymail.co.uk/news/article-9853387/Elon-Musk-refused-apologize-calling-diver-pedo-make-look-cowardly.html",
+      urlToImage: "https://i.dailymail.co.uk/1s/2021/08/02/21/46201919-0-image-a-12_1627934501237.jpg",
+      publishedAt: "2021-08-02T20:15:55Z",
+      content: "A new book has documented what the author claims to be Elon Musk's mercurial temper and recounts several episodes of rage that he flew into during stressful times as Tesla's CEO. Reporter Tim Higgin… [+7696 chars]"
+    },
+    {
+      source: {
+        id: null,
+        name: "Investmentwatchblog.com"
+      },
+      author: "alexmark",
+      title: "China Doesn’t Care About US Investor’s Money",
+      description: null,
+      url: "https://www.investmentwatchblog.com/china-doesnt-care-about-us-investors-money/",
+      urlToImage: null,
+      publishedAt: "2021-08-02T20:14:51Z",
+      content: "by RichFelon I see quite a few posts on China this morning and want to clarify a few points. In full disclosure I lost over 300k on Chinese stocks in a combination of shares, warrants, and options. … [+2338 chars]"
+    },
+    {
+      source: {
+        id: null,
+        name: "Commercial Observer"
+      },
+      author: "Cathy Cunningham",
+      title: "Madison Realty Capital Lends $13M for Austin Multifamily Development Site",
+      description: "A joint venture between The Sutton Company, KOA Partners and Atalaya Capital has landed a $13 million loan for the acquisition and pre-development of a multifamily development site in Austin, Texas, Commercial Observer has learned. Madison Realty Capital (MR…",
+      url: "https://commercialobserver.com/2021/08/madison-realty-capital-austin-4700-south-congress-ave/",
+      urlToImage: "https://commercialobserver.com/wp-content/uploads/sites/3/2021/08/View-from-Sheraton-Intersection.jpg?quality=80&w=624",
+      publishedAt: "2021-08-02T20:13:54Z",
+      content: "A joint venture between The Sutton Company, KOA Partners and Atalaya Capital has landed a $13 million loan for the acquisition and pre-development of a multifamily development site in Austin, Texas, … [+1512 chars]"
+    }
+  ]
+}
